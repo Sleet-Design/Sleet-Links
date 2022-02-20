@@ -1,0 +1,26 @@
+body {
+    font-family: 'Amaranth', sans-serif;
+    text-align: center;
+    background-color: rgba(3, 168, 244, 0.777);
+    background: url(../img/background-1.png) no-repeat center center fixed; 
+    font-size: 20px;
+    padding: 20px;
+}
+header img {
+    width: 100px;
+    border-radius: 50%;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+p {
+    font-size: 30px;
+    background-color: rgb(3, 168, 244);
+
+    padding: 5px;
+    /* min-width: 80%; */
+}
+a {
+    text-decoration: none;
+}
